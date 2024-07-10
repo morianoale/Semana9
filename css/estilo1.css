@@ -1,0 +1,9 @@
+cuerpo {
+    color de fondo: # eeeeee;
+}
+
+. resaltado {
+    color: # 000000;
+    color de fondo: # ffff00;
+    estilo de fuente: cursiva;
+}

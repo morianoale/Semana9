@@ -1,0 +1,65 @@
+*{
+    margen: 0;
+    relleno: 0;
+}
+
+a : enlace,
+a : visitado,
+a : pasar el mouse,
+a : activo {
+    color: # 0f0;
+    tamaño de fuente: 16 px;
+}
+
+cuerpo {
+    fondo: # eee;
+    familia de fuentes: verdana;
+}
+
+h1 {
+    color: # c0c;
+    tamaño de fuente: 24 px;
+}
+
+pag {
+    tamaño de fuente: 16 px;
+}
+
+al {
+    tipo-estilo-lista: ninguno;
+}
+
+. contenedor {
+    margen: 0 automático;
+    ancho: 800 px;
+}
+
+. cabecera {
+    color: # ff9;
+    color de fondo: # 000;
+    relleno: 10 px;
+}
+
+. contenido {
+    color de fondo: # ddd;
+    flotador izquierdo;
+    altura: 500 px;
+    relleno: 10 px;
+    ancho: 560 px;
+}
+
+. menú {
+    color de fondo: # 999;
+    flotador izquierdo;
+    altura: 480 px;
+    relleno: 20 px;
+    ancho: 180 px;
+}
+
+. tarta {
+    color de fondo: # bbb;
+    Limpia los dos;
+    color: # 900;
+    relleno: 10 px;
+    alinear texto: centro;
+}

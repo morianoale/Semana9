@@ -1,0 +1,18 @@
+.titulopagina {
+    color de fondo: # ffffcc;
+    alinear texto: centro;
+    familia de fuentes: verdana;
+    tamaño de fuente: 40 px;
+    ancho del borde superior: 1 px;
+    borde-derecho ancho: 3 px;
+    ancho del borde inferior: 3 px;
+    borde-izquierdo-ancho: 1 px;
+    border-top-style: punteado;
+    borde-derecho-estilo: sólido;
+    borde-inferior-estilo: sólido;
+    borde-izquierdo-estilo: punteado;
+    color del borde superior: # ffaa00;
+    color del borde derecho: # ff0000;
+    color del borde inferior: # ff0000;
+    color del borde izquierdo: # ffaa00;
+}

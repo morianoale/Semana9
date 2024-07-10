@@ -1,0 +1,22 @@
+* {
+    margen: 0;
+    relleno: 0;
+}
+
+división {
+    color de fondo: # ffffaa;
+    margen: 20 px;
+    ancho del borde: 1 px;
+    estilo de borde: sólido;
+    color del borde: # ff0000;
+}
+
+pag {
+    relleno: 10 px;
+}
+
+div.caja {
+    ​​ relleno: 10 px;
+    borde: 10 px sólido # bbbbbbbb;
+
+}
